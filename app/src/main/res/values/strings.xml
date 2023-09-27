@@ -2,8 +2,13 @@
     <string name="app_name">Pa Jartar</string>
     <!--Login -->
     <string name="tvInSe">Inicio de sesión</string>
-    <string name="tvEmail">Correo electrónico:</string>
-    <string name="tvPass">Contraseña:</string>
+    <string name="etEmailIS">Correo electrónico:</string>
+    <string name="etPassIS">Contraseña:</string>
+
+    <string name="etNombresR">Nombres:</string>
+    <string name="etApellidosR">Apellidos:</string>
+    <string name="etEmailR">Correo electrónico:</string>
+    <string name="etPassR">Contraseña:</string>
     <string name="itemHome">Principal</string>
     <string name="itemConsulta">Consultas</string>
     <string name="itemPerfil">Peril</string>
